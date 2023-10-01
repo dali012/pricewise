@@ -12,3 +12,26 @@ export const navIcons = [
     alt: "User",
   },
 ];
+
+export const heroImages = [
+  {
+    imgUrl: "/assets/images/hero-1.svg",
+    alt: "SmartWatch",
+  },
+  {
+    imgUrl: "/assets/images/hero-2.svg",
+    alt: "Bag",
+  },
+  {
+    imgUrl: "/assets/images/hero-3.svg",
+    alt: "Lamp",
+  },
+  {
+    imgUrl: "/assets/images/hero-4.svg",
+    alt: "Air Fryer",
+  },
+  {
+    imgUrl: "/assets/images/hero-5.svg",
+    alt: "Chair",
+  },
+];
