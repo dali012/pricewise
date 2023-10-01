@@ -1,5 +1,8 @@
-import SearchBar from "@/components/SearchBar";
 import Image from "next/image";
+
+//dynamic imports later
+import HeroCarousel from "@/components/HeroCarousel";
+import SearchBar from "@/components/SearchBar";
 
 export default function Home() {
   return (
@@ -26,7 +29,7 @@ export default function Home() {
             </p>
             <SearchBar />
           </div>
-          {/* <HearoCarousel /> */}
+          <HeroCarousel />
         </div>
       </section>
 
